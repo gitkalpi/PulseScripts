@@ -2,7 +2,7 @@
 Scripts to generate DSL queries based on provided values. User provides comma seperated values.
 
 # Install
-`git clone https://github.com/gitkalpi/PulseScripts && ./PulseScripts`
+`git clone https://github.com/gitkalpi/PulseScripts.git && ./PulseScripts`
 
 # Use
 `./pulse-menu.sh "comma, sperated, values, go, here"`
